@@ -1,0 +1,1 @@
+This project is a personalized landing page template crafted specifically for showcasing the skills, projects, and expertise of a full stack developer. It serves as an online portfolio to highlight your proficiency in both front-end and back-end technologies, as well as your ability to create dynamic and responsive web applications.
